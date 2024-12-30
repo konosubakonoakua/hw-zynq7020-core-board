@@ -10,6 +10,7 @@
 ![bottom](images/v1_bottom.jpg)
 
 ### V1.1 (JTAG bug fixed)
+![top](images/v1.1_3d_top.png)
 
 ## References
 - [Components & DDR layout](https://oshwhub.com/z_star/zynq7020-core-board-and-various-rf-modules)
