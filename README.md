@@ -6,8 +6,8 @@
 
 ## Manufacturing [TBD]
 ### V1.0 (JTAG bug)
-![top](images/v1_top.png)
-![bottom](images/v1_bottom.png)
+![top](images/v1_top.jpg)
+![bottom](images/v1_bottom.jpg)
 
 ### V1.1 (JTAG bug fixed)
 
