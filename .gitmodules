@@ -1,0 +1,3 @@
+[submodule "vivado"]
+	path = vivado
+	url = https://github.com/konosubakonoakua/zynq7020_coreboard_ws2812b_vivado_2019.1.git
